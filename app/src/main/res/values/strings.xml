@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">H5170062_KadirEnesIslerFinal</string>
+    <string name="ad_soyad">Ad_Soyad</string>
+    <string name="alan">Alan</string>
+    <string name="dogum_tarihi">19.05.1985</string>
+    <string name="baslik">BAŞLIK</string>
+    <string name="detay">DETAY</string>
+    <string name="mesaj">DETAY</string>
+
+</resources>

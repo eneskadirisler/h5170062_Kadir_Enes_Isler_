@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <dimen name="card_pedding">16dp</dimen>
+
+    <dimen name="logo_yukseklik">185dp</dimen>
+    <dimen name="logo_genislik">196dp</dimen>
+
+    <dimen name="img_genislik">151dp</dimen>
+    <dimen name="img_yukselik">134dp</dimen>
+
+    <dimen name="genislik_200dp">200dp</dimen>
+    <dimen name="bilgi_resmi_yukseklik">250dp</dimen>
+    <dimen name="bilgi_resmi_genislik"
+        android:layout_width="wrap_content"
+        android:scaleType="fitXY"
+        >
+
+    </dimen>
+    <dimen name="baslik_detay_padding">10dp</dimen>
+    <dimen name="padding_32">32dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="margin_52">52dp</dimen>
+
+</resources>

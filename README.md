@@ -11,8 +11,8 @@ Bu proje mobil yazılımlar dersi için hazırlanmıştır.
 <img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/splash_ekrani.jpg" height="500"/>
 <img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/liste_ekrani.jpg" height="500"/>
 <img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/detay_ekrani.jpg" height="500"/>
-<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/cikis_dialog.jpg  height="500""/>
-<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/internet_dialog.jpg  height="500""/>
+<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/cikis_dialog.jpg"  height="500"/>
+<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/internet_dialog.jpg" height="500"/>
 
 
 

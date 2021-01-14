@@ -8,6 +8,15 @@ Bu proje mobil yazılımlar dersi için hazırlanmıştır.
 </p>
 
 ## Ekran görüntüleri ##
+<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/splash_ekrani.jpg"/>
+<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/liste_ekrani.jpg"/>
+<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/detay_ekrani.jpg"/>
+<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/logo.PNG"/>
+<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/logo.PNG"/>
+
+
+
+
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel ">ViewModel</a></li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/coroutines" >Corountines</a></li>
  Resim Ekleme :

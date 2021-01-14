@@ -4,7 +4,7 @@
 Bu proje mobil yazılımlar dersi için hazırlanmıştır.
 
 <p align="center">
-<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/logo.PNG"/>
+<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/logo.PNG" height="100"/>
 </p>
 
 ## Ekran görüntüleri ##

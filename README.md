@@ -4,11 +4,11 @@
 Bu proje mobil yazılımlar dersi için hazırlanmıştır.
 
 <p align="center">
-<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/logo.PNG" height="100"/>
+<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/logo.PNG"/>
 </p>
 
 ## Ekran görüntüleri ##
-<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/splash_ekrani.jpg"/>
+<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/splash_ekrani.jpg"height="200" />
 <img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/liste_ekrani.jpg"/>
 <img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/detay_ekrani.jpg"/>
 <img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/logo.PNG"/>

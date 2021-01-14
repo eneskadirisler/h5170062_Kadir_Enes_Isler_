@@ -1,5 +1,14 @@
-# h5170062_Kadir_Enes_Isler
- Tarihdeki önemli bilim insanlarını anlatan mobil projesi
+## Tarihdeki önemli bilim insanlarını anlatan mobil uygulama projesi ##
+Bu proje mobil yazılımlar dersi için hazırlanmıştır.
+
+<p align="center">
+<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/logo.PNG"/>
+</p>
+
+## Ekran görüntüleri ##
+<li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel ">ViewModel</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/coroutines" >Corountines</a></li>
+ Resim Ekleme :
  
  
  

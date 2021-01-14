@@ -1,4 +1,6 @@
+
 ## Tarihdeki önemli bilim insanlarını anlatan mobil uygulama projesi ##
+
 Bu proje mobil yazılımlar dersi için hazırlanmıştır.
 
 <p align="center">

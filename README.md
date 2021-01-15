@@ -2,13 +2,14 @@
 ## Tarihdeki önemli bilim insanlarını anlatan mobil uygulama projesi ##
 
 <p align="center">
-<img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/logo.PNG"/>
+<img src="https://github.com/eneskadirisler/FinalOdevi/blob/main/logo.PNG"/>
 </p>
 
 # Proje Açıklaması #
  Bu proje tarihe yön vermiş önemli bilim insanlarını tanıtmak için, Android Studio ortamında Java diliyle yazılmıştır.
 
 ## Ekran görüntüleri ##
+
 <div float="left"> 
 <img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/splash_ekrani.jpg" height="380"/>
 <img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/liste_ekrani.jpg" height="380"/>
@@ -17,7 +18,11 @@
 <img src="https://github.com/eneskadirisler/h5170062_Kadir_Enes_Isler_/blob/main/ekranlar/internet_dialog.jpg" height="380"/>
  </div>
 
-**dsa**
+## Projenin Mimari yapısı ##
+
+<img src="https://github.com/eneskadirisler/FinalOdevi/blob/main/paket.jpg" height="380"/>
+
+
 
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel ">ViewModel</a></li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/coroutines" >Corountines</a></li>

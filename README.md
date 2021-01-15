@@ -22,17 +22,17 @@
 
 <img src="https://github.com/eneskadirisler/FinalOdevi/blob/main/paket.jpg" height="380"/>
 
+## Proje'de Kullanılan Teknolojiler ##
 
 
-<li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel ">ViewModel</a></li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/coroutines" >Corountines</a></li>
- Resim Ekleme :
+
+<li><a href="https://medium.com/@smhdk/rxjava-nedir-temel-bile%C5%9Fenleri-nelerdir-e6dc0a5f82df ">Rx Java</a></li>
+<li><a href="https://medium.com/@snowronark/androidde-retrofit-2-ile-rest-api-kullan%C4%B1m%C4%B1-get-429aa6c4f2af" >Retrofit 2</a></li>
  
  
  
  
- License
-Copyright 2021 Enes Kadir İsler
+## Copyright 2021 Enes Kadir İsler ##
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
